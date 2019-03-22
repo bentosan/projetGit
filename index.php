@@ -29,7 +29,7 @@ if(isset($_POST['login'])){
 
 </head>
 <body>
-<h1>connexion</h1>
+<h1>formulaire de connexion</h1>
     <FORM method="POST" action="index.php">
     <input type="text" name="login" placeholder="Entrer votre Email"><br>
     <input type="text" name="password" placeholder="Mot de passe"><br>
